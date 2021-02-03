@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/quiz-back/quiz-back.iml" filepath="$PROJECT_DIR$/quiz-back/quiz-back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quiz-back-end-1/quiz-back-end-1.iml" filepath="$PROJECT_DIR$/quiz-back-end-1/quiz-back-end-1.iml" />
+    </modules>
+  </component>
+</project>
